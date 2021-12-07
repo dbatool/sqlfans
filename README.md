@@ -1,7 +1,7 @@
 # sqlfans
 欢迎大家访问：[https://wiki.sqlfans.cn](https://wiki.sqlfans.cn)
 
-## 🏠 [主页](https://github.com/dbatool/sqlfans)
+## 🏠 主页
 - wiki : [https://dbatool.github.io/sqlfans](https://dbatool.github.io/sqlfans)
 
 ## 🤝 反馈与建议

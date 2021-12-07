@@ -6,7 +6,7 @@
 
 ## 🤝 反馈与建议
 - 作者：👤 **sqlfans**
-- 网站：[www.sqlfans.cn](http://www.sqlfans.cn)
+- 网站：[wiki.sqlfans.cn](https://wiki.sqlfans.cn)
 - 邮箱：<78667417@qq.com>
 
 遇到问题请提交 [Issues](https://github.com/dbatool/sqlfans/issues) 或者 `Pull Request` 请求，欢迎使用者和贡献者加入QQ群 `56700149`
